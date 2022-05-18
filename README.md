@@ -1,2 +1,6 @@
 # Data-structures-studies
-For study purposes
+Hiring Coders#3
+
+Gama Academy Data Structures Course.
+
+For study purposes.
